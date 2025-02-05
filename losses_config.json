@@ -1,0 +1,14 @@
+{
+    "cross_entropy": 0.33,
+    "SSLoss_v2": 0.0,
+    "ExpLog_loss": 0.0,
+    "LovaszSoftmax": 0.0,
+    "TopKLoss": 0.33,
+    "WeightedCrossEntropyLoss": 0.0,
+    "SoftDiceLoss_v2": 0.0,
+    "IoULoss_v2": 0.0,
+    "TverskyLoss_v2": 0.0,
+    "FocalTversky_loss_v2": 0.0,
+    "AsymLoss_v2": 0.0,
+    "FocalLoss": 0.33
+}
