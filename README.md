@@ -6,7 +6,7 @@ Below are sample images from the dataset and their segmentation masks:
 
 ![Sample Images and Segmentation Masks from Dataset](assets/dataset_examples.png)
 
-This project provides a solution for segmenting clothes into 18 categories using DINO, ViT and UNet models.
+This project provides a solution for segmenting clothes into 9 categories using DINO, ViT and UNet models.
 
 * DINO: Pretrained backbone with a segmentation head
   * https://arxiv.org/abs/2104.14294
